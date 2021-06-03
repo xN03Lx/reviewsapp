@@ -1,0 +1,149 @@
+[
+  {
+    "model": "movie.genre",
+    "pk": 1,
+    "fields": {
+      "name": "Comedy"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 2,
+    "fields": {
+      "name": "Fantasy"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 3,
+    "fields": {
+      "name": "Crime"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 4,
+    "fields": {
+      "name": "Drama"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 5,
+    "fields": {
+      "name": "Music"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 6,
+    "fields": {
+      "name": "Adventure"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 7,
+    "fields": {
+      "name": "History"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 8,
+    "fields": {
+      "name": "Thriller"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 9,
+    "fields": {
+      "name": "Animation"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 10,
+    "fields": {
+      "name": "Family"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 11,
+    "fields": {
+      "name": "Mystery"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 12,
+    "fields": {
+      "name": "Biography"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 13,
+    "fields": {
+      "name": "Action"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 14,
+    "fields": {
+      "name": "Film-Noir"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 15,
+    "fields": {
+      "name": "Romance"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 16,
+    "fields": {
+      "name": "Sci-Fi"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 17,
+    "fields": {
+      "name": "War"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 18,
+    "fields": {
+      "name": "Western"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 19,
+    "fields": {
+      "name": "Horror"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 20,
+    "fields": {
+      "name": "Musical"
+    }
+  },
+  {
+    "model": "movie.genre",
+    "pk": 21,
+    "fields": {
+      "name": "Sport"
+    }
+  }
+]

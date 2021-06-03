@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=reviewsapp
+POSTGRES_USER=zlBpeubTUTftrLkgCgoCFoQKJowDAQht
+POSTGRES_PASSWORD=AOtJGoYtxBmad0VQkoW6wTgqID0ObBXWNHnqIwifZadG8BzAz5qer6jWP8ofnO14
