@@ -35,16 +35,11 @@ class Query(graphene.ObjectType):
         """Resolver to get all celebrities"""
         return Celebrity.objects.all()
 
-    # Resolver for post field
     @staticmethod
     def resolve_celebrity(cls, info, **kwargs):
         """Resolver to get a celebrity by id"""
         return Celebrity.objects.get(id=kwargs.get('id'))
 
-
-
-class CelebrityInput(graphene.InputObjectType):
-    id = graphene.ID()
 
 class ObjectField(Scalar):
     @staticmethod
